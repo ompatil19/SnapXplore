@@ -1,10 +1,12 @@
 import React from 'react'
 import Card from '../utilities/card/Card'
+import { useLocation } from 'react-router-dom';
 import './reccom.css'
 function Reccomendation() {
-    const data = [
-        { imageurl: "https://source.unsplash.com/random", name: "Om Beach", location: "Gokarna, Karnataka", distance: "200kms" },
-        { imageurl: "https://source.unsplash.com/random", name: "JPG Beach", location: "JPG City", distance: "300kms" },
+    const location = useLocation();
+    const data = location.state?.data || [
+        { imageurl: "https://source.unsplash.com/random", name: "Omnom Beach", location: "Gokarna, Karnataka", distance: "200kms" },
+        { imageurl: "https://source.unsplash.com/random", name: "JPGreccom Beach", location: "JPG City", distance: "300kms" },
         { imageurl: "https://source.unsplash.com/random", name: "Sunset Cove", location: "Island Paradise", distance: "150kms" },
         { imageurl: "https://source.unsplash.com/random", name: "Moonlight Bay", location: "Dreamland", distance: "400kms" },
         { imageurl: "https://source.unsplash.com/random", name: "Golden Shore", location: "Golden Coast", distance: "250kms" },

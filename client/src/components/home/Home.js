@@ -1,30 +1,21 @@
 import React from 'react'
-import { Container } from '@chakra-ui/react'
-import { Stack, HStack, VStack } from '@chakra-ui/react'
-import { Heading } from '@chakra-ui/react'
-import { Text } from '@chakra-ui/react'
-import { Flex, Spacer } from '@chakra-ui/react'
+import {useNavigate } from 'react-router-dom';
 import Uploader from '../uploader/Uploader'
 import bgimage from '../../images/background.jpg'
+import axios from 'axios'
 import './home.css'
-function Home() {      
+function Home() {   
+    const navigate = useNavigate();
+
+    const recommendPlaces = async () => {
+        try {
+            const response = await axios.get('http://localhost:1900/reccomimage');
+            navigate('/recommendations', { state: { data: response.data } });
+        } catch (error) {
+            console.error('Error fetching data:', error);
+        }
+    };
     return (
-        //     <Container
-        //   maxW="100vw"
-        //   h="100vh" bg="#1d1b1b">
-        //     <Flex h="100vh" py={20}>
-        //       <VStack w="full" h="full" p={10} spacing={10} alignItems="flex-start" justifyContent="center" >
-        //         {/* <Text color="white">Hello</Text> */}
-        //         <Heading size="4xl" color="white">Snap<span color='#e28238'>Explore</span> </Heading>
-        //         <Text fontSize="4xl" color="#e28238">Capture Discover Explore</Text>
-        //       </VStack>
-        //       <VStack w="full" h="full" p={10} spacing={4} alignItems="center" justifyContent="center" >
-        //         {/* <Text color="white">Hello</Text> */}
-        //         <Uploader/>
-        //         <Text color="#e28238" as="i">Upload all your travel pictures here</Text>
-        //       </VStack>
-        //     </Flex>
-        //     </Container>
         <>  
             <div className="d-flex flex-row main-box">
                 <div className="d-flex flex-column left align-items-start justify-content-center px-5">
@@ -34,7 +25,7 @@ function Home() {
                 <div className="d-flex flex-column right justify-content-center align-items-center ">
                     <Uploader />
                     <p className="text-2xl font-bold text-white fs-4 py-2 fst-italic">Upload all your <span className="orange"> travel pictures </span> here</p>
-                    <button className='send-button'>
+                    <button onClick={recommendPlaces} className='send-button'>
                         <div class="svg-wrapper-1">
                             <div class="svg-wrapper">
                                 <svg
