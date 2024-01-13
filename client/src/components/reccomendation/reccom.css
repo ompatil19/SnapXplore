@@ -1,0 +1,16 @@
+.recom-container{
+        /* height: 100vh; */
+        min-height: 100vh;
+        background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+        url(../../images/background2.jpg);
+        background-size: cover;
+        background-position: center;
+        padding: 40px;  
+}
+.recom-container h2{
+    font-size: 2.5em;
+    margin-bottom: 30px;
+}
+.white{
+    color: rgb(220, 220, 220);
+}
