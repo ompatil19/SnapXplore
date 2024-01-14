@@ -1,0 +1,338 @@
+[
+  {
+    "city": "leh",
+    "places ": "['Leh Palace', 'Shanti Stupa', 'Gurudwara Pathar Sahib', 'Spituk Gompa', 'Stok Palace Museum', 'Alchi Monastery Near Leh', 'Magnetic Hill']",
+    "peak": "Mar-Jun",
+    "moderate": "Sep-Feb",
+    "off": "Jul-Aug"
+  },
+  {
+    "city": "baroda",
+    "places ": "['Sayaji Baug', 'EME Temple', 'Ajwa World', 'Laxmi Vilas Palace', 'Kirti Mandir', 'Sursagar Lake', 'Baroda Prints']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "rishikesh",
+    "places ": "['Laxman Jhula', 'Rajaji National Park', 'Triveni Ghat', 'Neelkanth Mahadev Temple', 'Parmarth Niketan', 'Vashishtha Guha Temple', 'The Beatles Ashram', 'Tera Manzil', 'Little Buddha Cafe', 'Kaudiyala', 'Ram Jhula', 'Neergarh Waterfall', 'Vashistha Cave', 'Kunjapuri Devi Temple']",
+    "peak": "Oct-Feb",
+    "moderate": "Mar-May",
+    "off": "Jun-Sep"
+  },
+  {
+    "city": "ooty",
+    "places ": "['Botanical Garden', 'Pykara Waterfalls', 'Doddabetta Peak', 'Elk Hill Murugan Temple', 'Ooty Lake', 'Fernhills Palace', 'Tea Museum', 'Mudumalai National Park, Tamil Nadu']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-May",
+    "off": "Jun-Sep"
+  },
+  {
+    "city": "goa",
+    "places ": "['Aguada Fort', 'Basilica of Bom Jesus', 'Dudhsagar Waterfalls', 'Baga beach, Goa', 'Our Lady of the Immaculate Conception Church', 'Calangute Beach', 'Se Cathedral', 'Chapora Fort', 'Anjuna Flea Market', 'Anjuna Beach', 'Candolim Beach', 'Vagator Beach', 'Palolem Beach', 'Salaulim Dam', 'Morjim Beach', 'Baina Beach', 'Querim Beach', 'Majorda Beach', 'Agonda Beach', 'Varca Beach', 'Butterfly Beach', 'Netravali Bubbling Lake', 'Bhagwan Mahaveer Wildlife Sanctuary', 'Indian Naval Aviation Museum', 'Arambol Beach']",
+    "peak": "Nov-Mar",
+    "moderate": "Jul-Oct",
+    "off": "Apr-Jun"
+  },
+  {
+    "city": "alleppey",
+    "places ": "['Ambalapuzha Sree Krishna Temple Alleppey', 'Visit Alappuzha Lighthouse', 'Tour Krishnapuram Palace', 'Explore the Backwaters', 'Relax at the Alleppey Beach', 'Enjoy Soothing Ayurvedic Therapies', 'Visit St Marys Forane Church', 'Kuttanad, Kerala', 'Shopping Spree In Alleppey']",
+    "peak": "Nov-Feb",
+    "moderate": "Mar-Apr",
+    "off": "May-Oct"
+  },
+  {
+    "city": "darjeeling",
+    "places ": "['Padmaja Naidu Himalayan Zoological Park Darjeeling', 'Batasia Loop', 'Japanese Peace Pagoda', 'Himalayan Mountaineering Institute', 'Tiger Hill', 'Ghoom Monastery', 'Sandakphu, Darjeeling', 'Lepchajagat, West Bengal', 'Dhirdham Temple']",
+    "peak": "Apr-Jun",
+    "moderate": "Jul-Nov",
+    "off": "Oct-Mar"
+  },
+  {
+    "city": "shimla",
+    "places ": "['Christ Church', 'Viceregal Lodge', 'Kalibari Temple', 'The Ridge of Shimla', 'Green Valley', 'Jhakoo Hill', \"Johnnie's Wax Museum\", 'Annandale']",
+    "peak": "Mar-Jun",
+    "moderate": "Oct-Feb",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "auli",
+    "places ": "['Artificial Lake Auli', 'Kwani Bugyal Auli', 'Experience Skiing amidst Snow-Clad Mountains', 'Visit Nanda Devi National Park', 'Trek to Gurso Bugyal', 'Seek Blessings at Narsimha Temple', 'Experience the Ropeway Cable Car Ride']",
+    "peak": "Oct-Feb",
+    "moderate": "Mar-Jun",
+    "off": "Jul-Nov"
+  },
+  {
+    "city": "munnar",
+    "places ": "['Echo Point Near Munnar', 'Eravikulam National Park', 'Pothamedu View Point', 'Photo Point', 'Attukal Waterfalls', 'Chinnakanal Waterfalls', 'Kundala Dam Lake', 'Lockheart Gap', 'Trek to the Anamudi Peak', 'Chandys Windy Woods', 'Avondale Cottage', 'Talayar Bungalow', 'Dream Catcher Plantation', 'Munnar Discovery Tent Stay', 'Boating in Mattupetty Dam', 'Visit the Tea Museum', 'Go for Rock Climbing', 'Elephant Safari at Carmelagiri Park', 'Relishing Kerala Sadhya', 'Eravikulam National Park', 'Trek to the Anamudi Peak', 'Tea Tales', 'Relishing Kerala Sadhya', 'Hotel Gurubhavan', 'Hotel Sri Nivas Restaurant', 'Copper Castle', 'Vattavada', 'Kanthalloor', 'Seetha Devi Lake', 'Marayur', 'Pampadum Shola National Park', 'Kolukkumalai Tea Estate', 'Boating in Mattupetty Dam', 'Go for Rock Climbing', 'Elephant Safari at Carmelagiri Park', 'Munnar Discovery Tent Stay']",
+    "peak": "Sep-Mar",
+    "moderate": "Apr-May",
+    "off": "Jun-Aug"
+  },
+  {
+    "city": "udaipur",
+    "places ": "['City Palace, Udaipur', 'Saheliyon Ki Bari', 'Fateh Sagar Lake', 'Lake Pichola', 'Jag Mandir Palace', 'Crystal Gallery Udaipur', 'Udaipur City Palace Museum', 'Sajjangarh Wildlife Sanctuary', 'Moti Magri', 'Vintage Car Museum Udaipur', 'Gulab Bagh Zoo', 'Jaisamand Lake', 'Mansapurna Karni Ropeway', 'Ambrai Ghat']",
+    "peak": "Oct-Mar",
+    "moderate": "Jul-Sep",
+    "off": "Apr-Jun"
+  },
+  {
+    "city": "varkala",
+    "places ": "['Varkala Beach', 'Thiruvambady Beach']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-May",
+    "off": "Jun-Sep"
+  },
+  {
+    "city": "kutch",
+    "places ": "['Kutch Museum', 'Vijaya Vilas Palace', 'Aina Mahal', 'Bhadreshwar Jain Temple', 'Kalo Dungar', 'Great Rann Of Kutch', 'Lakhpat', 'Kutch Desert Wildlife Sanctuary', 'Craft Villages']",
+    "peak": "Nov-Feb",
+    "moderate": "Mar-Apr",
+    "off": "May-Oct"
+  },
+  {
+    "city": "pushkar",
+    "places ": "['Brahma Temple', 'Apteshwar Temple', 'Savitri Temple', 'Pushkar Lake Near Pushkar', 'Rangji Temple', 'Varaha Temple', 'Merta City']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "dalhousie",
+    "places ": "['Panchpula', 'Dainkund Peak Near Dalhousie', 'Kalatop Wildlife Sanctuary', 'Ganji Pahari', 'Chamera Lake', 'Khajjiar', 'Rock Garden Dalhousie', 'Sach Pass', 'Subhash Baoli', 'Bakrota Hills', 'St Patricks Church', 'Indo Tibetan Market', 'Satdhara Falls', 'St Johns Church Dalhousie', 'St Francis Church']",
+    "peak": "Apr-Jun",
+    "moderate": "Jul-Nov",
+    "off": "Oct-Mar"
+  },
+  {
+    "city": "gokarna",
+    "places ": "['Om Beach', 'Paradise Beach', 'Half Moon Beach', 'Gokarna Beach', 'Kudle Beach']",
+    "peak": "Oct-Mar",
+    "moderate": "Aug-Sep",
+    "off": "Apr-Jul"
+  },
+  {
+    "city": "agra",
+    "places ": "['Taj Mahal', 'Agra Fort', \"Akbar's Tomb\", 'Moti Masjid', \"Itmad-ud-Daulah's Tomb\", 'Mehtab Bagh', 'Fatehpur Sikri']",
+    "peak": "Oct-Mar",
+    "moderate": "Jul-Sep",
+    "off": "Apr-Jun"
+  },
+  {
+    "city": "kochi",
+    "places ": "['Hill Palace Museum', 'The Mattancherry Palace', 'Santa Cruz Basilica', 'Paradesi Synagogue', 'Willingdon Island', 'Vypeen Island', 'Princess Street', 'Muziris, Kerala']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "amritsar",
+    "places ": "['Golden Temple, Amritsar', 'Gobindgarh Fort', 'Jallianwala Bagh', 'Sri Durgiana Temple', 'Partition Museum', 'Hall Bazaar', 'Ram Tirth Temple', 'Katra Jaimal Singh Bazaar']",
+    "peak": "Oct-Mar",
+    "moderate": "Jul-Sep",
+    "off": "Apr-Jun"
+  },
+  {
+    "city": "lakshwadeep",
+    "places ": "['Andretti', 'Agatti', 'Minicoy', 'Kadmath', 'Kalpeni', 'Bangaram', 'Thinnakara Island Lakshadweep', 'Amini Island Lakshadweep', 'Kavaratti']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "jaipur",
+    "places ": "['Amer Fort', 'Hawa Mahal', 'Nahargarh Fort', 'City Palace', 'Birla Mandir', 'Jantar Mantar Near Jaipur', 'Jal Mahal']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "srinagar",
+    "places ": "['Mughal Gardens', 'Nishat Bagh', 'Shalimar Bagh', 'Achabal Bagh', 'Chashma Shahi', 'Pari Mahal', 'Verinag', 'Dal Lake', 'Shankaracharya Hill Srinagar', 'Nigeen Lake', 'Wular Lake', 'Hari Parbat', 'Shri Pratap Singh Museum', 'Lal Chowk and Polo View', 'Doodhpathri, Kashmir', 'Hazratbal Shrine', 'Chashme Shahi', 'Shalimar Bagh', 'Shikara Ride in Srinagar']",
+    "peak": "Mar-Jun",
+    "moderate": "Jul-Sep",
+    "off": "Oct-Feb"
+  },
+  {
+    "city": "andaman",
+    "places ": "['Cellular Jail', 'Radhanagar Beach', 'Elephant Beach', 'Ross Island', 'Kalapathar Beach', 'Mount Harriet National Park Near Havelock', \"Neil's Cove\", 'Barren Island']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "manikaran",
+    "places ": "['Seek Blessings at Gurudwara Shri Manikaran Sahib', 'Manikaran Hot Springs', 'Shop at the Kasol Market', 'Walk by the Parvati River', 'Camp in the Parvati Valley', 'Trek from Malana to Waichin Valley', 'Star Gazing in Kasol', 'Pin Parvati Pass Trek', 'Buddha Place', 'Tosh', 'Stone Garden Cafe', 'Barshaini', 'Sar Pass Trek', 'Stargazing at Kasol', 'Magic Valley', 'Fishing Activity in Naggar']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "gangtok",
+    "places ": "['Tsomgo Lake', 'Rumtek Monastery', 'Nathu La Pass', 'Do-Drul Chorten', 'Enchey Monastery', 'Namgyal Institute of Tibetology', 'Seven Sisters Waterfall', 'Ganesh Tok Temple Gangtok Sikkim', 'Khangchendzonga National Park, Sikkim', 'Ravangla, Sikkim', 'Pelling, Sikkim']",
+    "peak": "Mar-Jun",
+    "moderate": "Oct-Feb",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "jodhpur",
+    "places ": "['Mehrangarh Fort', 'Umaid Bhawan Palace', 'Mandore Garden', 'Jaswant Thada', 'Clock Tower Market', 'Rao Jodha Desert Rock Park', 'Toorji Ka Jhalra', 'Camel Safari', 'Phalodi Jodhpur', 'Khejarla Fort', 'Balsamand Lake', 'Sardar Market', 'Bishnoi Village Tour', 'Sardar Government Museum', 'Fort Chanwa']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "pondicherry",
+    "places ": "['Sri Aurobindo Ashram', 'Basilica Of The Sacred Heart Of Jesus Pondicherry', 'Promenade Beach', 'Paradise Beach, Pondicherry', 'Chunnambar Boat House', 'Tranquebar, Tamil Nadu', 'Auroville', 'Serenity Beach']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "mussoorie",
+    "places ": "['Kempty Falls', 'George Everests House', 'Lal Tibba', 'Clouds End Mussoorie', 'Benog Wildlife Sanctuary', 'Camels Back Road', 'Gun Hill', 'Landour', 'Mussoorie Lake', 'Mall Road']",
+    "peak": "Mar-Jun",
+    "moderate": "Oct-Feb",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "delhi",
+    "places ": "['Sri Gurudwara Bangla Sahib', 'Akshardham Temple', 'India Gate', 'Lotus Temple', 'Jantar Mantar In Delhi', \"Humayun's Tomb\", 'Jama Masjid in Delhi', 'Red Fort (Lal Quila)', 'Qutub Minar, Delhi', 'Madame Tussauds Museum Delhi', 'Connaught Place', 'Khan Market', 'Lodhi Garden', 'Rashtrapati Bhawan', 'National Zoological Park', 'Swatantrata Sangrama Sangrahalaya Delhi', 'Swatantrata Senani Museum Delhi', 'Teen Murti Bhavan & Nehru Planetarium', 'Musuem of Illusion', 'National Railway Museum', 'Champa Gali']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "maldives",
+    "places ": "['Underwater Restaurant', 'Sun Island', 'Huvahendhoo Island', 'Maldives Glowing Beach', 'Fihalhohi Island', 'Maafushi', 'Artificial Beach', 'Maamigili']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "gulmarg",
+    "places ": "['Gulmarg Biosphere Reserve', 'Gulmarg Gondola Ride', 'Alpather Lake', 'Gulmarg Golf Course', \"St. Mary's Church\", 'Strawberry Valley', 'Shrine of Baba Reshi', 'Khilanmarg', 'Buta Pathri', 'Durung Waterfall', 'Seven Springs']",
+    "peak": "Dec-Mar",
+    "moderate": "Apr-Jun",
+    "off": "Jul-Nov"
+  },
+  {
+    "city": "havelock",
+    "places ": "['Cellular Jail', 'Radhanagar Beach', 'Elephant Beach', 'Ross Island', 'Kalapathar Beach', 'Mount Harriet National Park Near Havelock', \"Neil's Cove\", 'Barren Island']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "wayanad",
+    "places ": "['Edakkal Caves', 'Thirunelli Temple', 'Chembra Peak', 'Muthanga Wildlife Sanctuary', 'Kuruva Island', 'Pookode Lake', 'Banasura Sagar Dam']",
+    "peak": "Nov-Feb",
+    "moderate": "Mar-May",
+    "off": "Jun-Sep"
+  },
+  {
+    "city": "vrindavan",
+    "places ": "['Radha Raman Temple', 'Keshi Ghat', 'Prem Mandir Near Vrindavan', 'Banke Bihari Mandir in Vrindavan', 'Nidhivan']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "bhubaneswar",
+    "places ": "['Nandankanan Zoological Park', 'Lingaraj Temple', 'Odisha State Museum', 'Museum of Tribal Arts & Artefacts', 'Kedargouri Temple', 'Rajarani Temple', 'Ekamra Kanan', 'Chilika, Odisha']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "manali",
+    "places ": "['Manikaran Sahib', 'Hidimba Devi Temple', 'Rohtang Pass', 'Manu Temple', 'Solang Valley', 'Old Manali', 'Naggar Castle Near Manali', 'Arjun Gufa', 'Sethan Valley', 'Atal Tunnel', 'Vashisht Hot Water Springs', 'Nehru Kund', 'Old Manali Snow Point', 'Himvalley Amusement & Cultural Park', 'Shoja, Himachal Pradesh', 'Jalori Jot, Himachal Pradesh', 'Jibhi, Himachal Pradesh', 'Cafe 1947']",
+    "peak": "Mar-Jun",
+    "moderate": "Sep-Feb",
+    "off": "Jul-Aug"
+  },
+  {
+    "city": "lucknow",
+    "places ": "['Bara Imambara', 'Chhota Imambara', 'Rumi Darwaza', 'Tomb of Saadat Ali Khan', 'Satkhanda', 'Begum Hazrat Mahal Park']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "alibaug",
+    "places ": "['Varsoli Beach', 'Mandwa Beach', 'Nagaon Beach', 'Alibaug Beach']",
+    "peak": "Oct-Feb",
+    "moderate": "Mar-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "coorg",
+    "places ": "[\"Raja's Seat\", 'Golden Temple', 'Abbey Falls, Coorg (Madikeri)', 'Irupu Falls', 'Iguthappa Temple', 'Madikeri Fort', 'Talakaveri', 'Honnamana Kere Lake', 'Mallalli Falls', 'Somwarpet', 'River Rafting in Coorg', 'Honey Valley']",
+    "peak": "Oct-Feb",
+    "moderate": "Mar-May",
+    "off": "Jun-Sep"
+  },
+  {
+    "city": "aurangabad",
+    "places ": "['Ellora Caves', 'Ajanta Caves', 'Bibi Ka Maqbara Aurangabad', 'Bhadra Maruti Temple', 'Valley of the Sufi Saints', 'Grishneshwar Temple Jyotirlinga, Aurangabad', 'Aurangabad Caves', 'Khuldabad Aurangabad', 'Jain Caves Ellora', 'Jama Masjid Aurangabad', 'Dargah of Pir Ismail', 'Buddhist Caves Aurangabad', 'Bani Begum Garden', 'Himayat Bagh', 'Tomb of Aurangzeb', 'Kailasa Temple', 'Salim Ali Lake', 'Siddharth Garden']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "mysore",
+    "places ": "['Mysore Palace', \"St. Philomena's Cathedral\", 'Brindavan Gardens', 'Jagmohan Palace', 'Mysore Zoo', 'Mysore Sand Sculpture Museum', 'Chamundi Hills']",
+    "peak": "Oct-Feb",
+    "moderate": "Mar-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "kovalam",
+    "places ": "['Hawa Beach', 'Lighthouse Beach']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "malvan",
+    "places ": "['Rock Garden', 'Malvan Marine Sanctuary', 'Sindhudurg Fort', 'Tarkarli Beach Near Tarkarli', 'Tsunami Island', 'Rameshwar Temple', 'Achara Beach', 'Shri Sateri Temple']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "gwalior",
+    "places ": "['Sun Temple', 'Gwalior Fort', 'Gwalior Zoo', 'Saas Bahu Temple', 'Tansen Memorial', 'Teli ka Mandir', 'Gujari Mahal Museum']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "hyderabad",
+    "places ": "['Charminar', 'Golconda Fort Near Hyderabad', 'Nehru Zoological Park', 'Chowmahalla Palace', 'Salar Jung Museum', 'Moula Ali Dargah', 'Hussain Sagar Lake', 'Qutb Shahi Tombs']",
+    "peak": "Oct-Mar",
+    "moderate": "Apr-Jun",
+    "off": "Jul-Sep"
+  },
+  {
+    "city": "mathura",
+    "places ": "['Prem Mandir', 'Krishna Janmasthan Temple Complex', 'Dwarkadhish Temple', 'Mathura Museum', 'Radha Vallabh Mandir', 'Jai Gurudev Mandir', 'Lathmar Holi', 'Banke Bihari Temple', 'Potara Kund', 'Kokilavan', 'Vaishno Devi Mandir', 'Jama Masjid Near Mathura', 'Kansa Qila']",
+    "peak": "[]",
+    "moderate": "[]",
+    "off": "[]"
+  },
+  {
+    "city": "shillong",
+    "places ": "['Elephant Falls', 'Laitlum Canyons', 'Don Bosco Museum Shillong', 'Double-Decker Bridge', 'Umiam Lake', 'David Scott Trail', 'All Saints Church', 'Shillong Peak', 'Ziro Valley, Arunachal Pradesh', 'Mawlynnong', 'Spread Eagle Falls', 'Sweet Falls', 'Air Force Museum', 'Malki Forest', 'Rhino Heritage Museum', 'Lady Hydari Park', 'Wards Lake', 'Police Bazaar']",
+    "peak": "Mar-Jun",
+    "moderate": "Nov-Feb",
+    "off": "Jul-Oct"
+  },
+  {
+    "city": "kolkata",
+    "places ": "['Dakshineshwar Kali Temple', 'Maidan', 'Belur Math', 'Howrah Bridge', 'Victoria Memorial', 'Indian Museum', 'Netaji Bhawan', 'Prinsep Ghat', 'Jorasanko Thakur Bari', 'Maulana Azad Museum Kolkata', 'Dalhousie Square']",
+    "peak": "Oct-Feb",
+    "moderate": "Mar-Apr",
+    "off": "May-Sep"
+  }
+]
