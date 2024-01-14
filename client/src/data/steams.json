@@ -1,0 +1,9 @@
+[
+    {"imageUrl": "https://drive.google.com/uc?id=13gb1qr6qNW_wYuCgu3B9M-XJjmDZh31K", "category": "beach", "location": "Anjuna beach"},
+    {"imageurl": "https://drive.google.com/uc?id=1prRivKHVttsHybWFeaNCaoSJkLrbyJ_U", "category": "mountain", "location": "Arambol Beach"},
+    {"imageurl": "https://drive.google.com/uc?id=1PtqnmjCMDXX0lYDlnY40R8Q3FKH1-2BW", "category": "city", "location": "Baga Beach"},
+    {"imageurl": "https://drive.google.com/uc?id=1QY1Xdox83cFB-VB8ZExzo-lNwPdS4pYk", "category": "forest", "location": "Calangute Beach"},
+    {"imageurl": "https://drive.google.com/uc?id=1-heWGF2_-Ap_3neL1t9IBeQTaGQBvFuh", "category": "desert", "location": "Candolim Beach"},
+    {"imageurl": "https://drive.google.com/uc?id=1wFwSsmwiVniMltXIxqr6XPVgaInjRvX3", "category": "island", "location": "Majorda Beach"},
+    {"imageurl": "https://source.unsplash.com/random", "category": "historic", "location": "Palolem Beach beach"}
+]

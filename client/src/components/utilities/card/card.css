@@ -6,7 +6,7 @@
     max-height: 330px;
     border-radius: 10px;
     background: rgba( 255, 255, 255, 0.1 );
-    box-shadow: 0 8px 32px 0 rgba(154, 153, 152, 0.37);
+    box-shadow: 0 8px 15  px 0 rgba(154, 153, 152, 0.37);
     backdrop-filter: blur( 3.5px );
     -webkit-backdrop-filter: blur( 3.5px );
     border-radius: 10px;
@@ -74,4 +74,13 @@
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     color: white;
     cursor: default;
+  }
+  .green{
+    color: #2FD60580;
+  }
+  .yellow{
+    color: #f6fa05b7;
+  }
+  .red{
+    color: #ff1201b3;
   }
